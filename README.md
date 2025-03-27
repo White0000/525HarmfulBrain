@@ -1,4 +1,3 @@
-```markdown
 # Harmful Brain Activity Classification
 
 This repository provides a complete deep learning pipeline for classifying harmful brain activities from EEG signals, such as Seizure, GPD, LRDA, GRDA, or other abnormal patterns. It offers an end-to-end solution, including data loading, preprocessing, model training (CNN/LSTM/Transformer), inference, and 2D/3D visualization.
@@ -198,4 +197,3 @@ For questions or further support, please contact:
 - **Institution**: [LU]
 
 Thank you for using **Harmful Brain Activity Classification**. We hope it helps improve EEG analysis and patient outcomes.
-```
