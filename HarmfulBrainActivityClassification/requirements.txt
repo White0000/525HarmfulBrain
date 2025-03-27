@@ -1,0 +1,21 @@
+# 基本科学计算
+numpy==1.23.5
+pandas==1.5.2
+scipy==1.9.3
+scikit-learn==1.2.0
+
+# 深度学习框架
+torch==2.0.0
+torchvision==0.15.0    # 图像处理
+torchaudio==2.0.0      # 音频处理
+
+# 可视化相关
+matplotlib==3.6.2      # 生成图像、保存混淆矩阵等
+pyqt5==5.15.7          # PyQt GUI 库
+open3d==0.15.2         # 3D 可视化库
+
+# 其他常见工具
+seaborn==0.12.1      # 高级统计可视化
+pillow==9.4.0        # 处理图像读写
+requests==2.28.2     # 网络请求下载
+kaggle==1.5.13       # 直接从kaggle下载数据
